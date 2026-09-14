@@ -2,7 +2,7 @@
 
 A 2D pixel-art incremental game built with Flutter, the Flame game engine, and Firebase. Players grow a virtual garden, collect resources, purchase upgrades, unlock achievements, and compete through an online scoreboard.
 
-## Quick Start
+## Quick Start(need wampoon)
 
 Install [Flutter](https://docs.flutter.dev/get-started/install), download and extract the repository, then:
 
