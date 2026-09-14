@@ -10,7 +10,7 @@ Install [Flutter](https://docs.flutter.dev/get-started/install), download and ex
 
 The launcher enters the `blueprint` app folder, installs the Flutter packages, and lets you choose an available device.
 
-HOW I RUN
+HOW I RUN: 
 Open android studio flutter, then 
 In terminal: git config --global --add safe.directory '*'
 In git bash: git config --global --add safe.directory '*'
