@@ -39,9 +39,12 @@ flutter pub get
 flutter run
 ```
 
-If Git reports a safe-directory warning, run:
+If Git reports a safe-directory warning, run(HOW I RUN WHEN OPENING ANDROID STUDIO):
 
 ```bash
+git config --global --add safe.directory '*'
+```
+```command prompt
 git config --global --add safe.directory '*'
 ```
 
