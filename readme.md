@@ -2,14 +2,18 @@
 
 A 2D pixel-art incremental game built with Flutter, the Flame game engine, and Firebase. Players grow a virtual garden, collect resources, purchase upgrades, unlock achievements, and compete through an online scoreboard.
 
-## Quick Start(need wampoon)
+## Quick Start
 
 Install [Flutter](https://docs.flutter.dev/get-started/install), download and extract the repository, then:
-
 - **Windows:** double-click `run.bat`
 - **macOS/Linux:** run `chmod +x run.sh && ./run.sh`
 
 The launcher enters the `blueprint` app folder, installs the Flutter packages, and lets you choose an available device.
+
+HOW I RUN
+Open android studio flutter, then 
+In terminal: git config --global --add safe.directory '*'
+In git bash: git config --global --add safe.directory '*'
 
 ## Features
 
