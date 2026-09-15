@@ -24,7 +24,10 @@ A relaxing 2D pixel-art incremental game built with **Flutter, Flame, and Fireba
 
 ## Quick Start
 
-HOW I START: DOWNLOAD ZIP, 
+HOW I START: DOWNLOAD ZIP, RUN ANDROID STUDIO,
+IN COMMAND PROMPT: git config --global -add safe.directory '*'
+IN GIT BASH: git config --global --add safe.directory '*"
+,OPEN IN ANDROID STUDIO FLUTTER THE DOWNLOADED FILE
 
 Install [Flutter](https://docs.flutter.dev/get-started/install), download and extract the repository, then:
 
