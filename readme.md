@@ -24,6 +24,8 @@ A relaxing 2D pixel-art incremental game built with **Flutter, Flame, and Fireba
 
 ## Quick Start
 
+HOW I START: DOWNLOAD ZIP, 
+
 Install [Flutter](https://docs.flutter.dev/get-started/install), download and extract the repository, then:
 
 - **Windows:** double-click `run.bat`
